@@ -1,2 +1,0 @@
-# Projects
-Icarus_functional_testcases
